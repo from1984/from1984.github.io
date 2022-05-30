@@ -1,0 +1,23 @@
+author: ''
+base_dir: /
+build_pdf: true
+code: c9a2d1e6-10a9-44f5-b2b2-706164aa3fb8
+format_version: 2
+mathjax_url: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+num_pdf_runs: 1
+root_url: /{theme}/
+structure:
+- build_pdf: true
+  content: []
+  pdf_url: pdf/mathpuzzle.pdf
+  slug: document_mathpuzzlet
+  source: math-puzzle.tex
+  splitlevel: -2
+  title: 'Document: math-puzzle.tex'
+  type: standalone
+themes:
+- path: default
+  source: default
+  title: Standalone
+title: ''
+year: {}
